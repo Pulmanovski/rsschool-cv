@@ -1,1 +1,1 @@
-# rsschool-cv
+[Pulmanovski](https://github.com/Pulmanovski/rsschool-cv.git)
